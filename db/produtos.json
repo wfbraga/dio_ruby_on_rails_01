@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Kaiser 500ml",
+    "descricao": "Cerveja Kaiser 500ml",
+    "preco": 5.5,
+    "quantidade": 10
+  },
+  {
+    "id": 2,
+    "nome": "Skol 350ml",
+    "descricao": "Cerveja Skol 350ml",
+    "preco": 4.5,
+    "quantidade": 20
+  },
+  {
+    "id": 3,
+    "nome": "Eisenstein 600ml",
+    "descricao": "Cerveja Eisenstein 600ml",
+    "preco": 6.5,
+    "quantidade": 15
+  },
+  {
+    "id": 4,
+    "nome": "Brahma 600ml",
+    "descricao": "Cerveja Brahma 600ml",
+    "preco": 7.0,
+    "quantidade": 12
+  },
+  {
+    "id": 5,
+    "nome": "Antártica 350ml",
+    "descricao": "Cerveja Antártica 350ml",
+    "preco": 4.0,
+    "quantidade": 25
+  },
+  {
+    "id": 1745378992,
+    "nome": "asdf",
+    "descricao": "asdf",
+    "preco": 3.0,
+    "quantidade": "3"
+  }
+]
