@@ -1,10 +1,22 @@
-# Desafio Bootcamp Ruby on Rails DIO
+# Desafio Bootcamp Ruby on Rails DIO - Versão POO
 
-Este projeto foi desenvolvido como parte do Bootcamp Ruby on Rails da Digital Innovation One (DIO), onde aprendemos técnicas interessantes de programação para terminal.
+Este projeto foi desenvolvido como parte do Bootcamp Ruby on Rails da Digital Innovation One (DIO). Esta é uma versão atualizada que implementa conceitos de Programação Orientada a Objetos (POO), oferecendo uma estrutura mais robusta e organizada para o gerenciamento de estoque.
 
-## Técnicas Aprendidas
+## Características da Versão POO
 
-Durante o curso, exploramos várias funcionalidades interessantes, incluindo o uso da gem `terminal-table` para criar tabelas bonitas no terminal.
+- Implementação usando classes e objetos
+- Separação de responsabilidades (SRP)
+- Persistência de dados em JSON
+- Interface amigável via terminal
+- Gerenciamento completo de estoque (CRUD)
+
+## Técnicas Implementadas
+
+- Programação Orientada a Objetos
+- Manipulação de arquivos JSON
+- Interface via terminal usando `terminal-table`
+- Tratamento de exceções
+- Organização em camadas (MVC)
 
 ### Exemplo de Uso do Terminal Table
 
@@ -33,6 +45,14 @@ bundle install
 ```
 ruby main.rb
 ```
+
+## Funcionalidades
+
+- Cadastro de produtos
+- Listagem de produtos
+- Adição de itens ao estoque
+- Retirada de itens do estoque
+- Persistência automática dos dados
 
 ## Agradecimentos
 
